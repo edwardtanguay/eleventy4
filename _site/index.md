@@ -13,7 +13,7 @@ tags:
 
 **Publish Date:** {{ page.date }}
 
-New index.md page:
+New index.md page in master:
 
 <ul>
 {% for item in tags %}
